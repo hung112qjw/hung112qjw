@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Junior high school 
 - 😄 Pronouns: Sad
 - ⚡ Fun fact: I'm boring
-h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
